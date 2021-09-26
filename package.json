@@ -9,7 +9,7 @@
     },
     "scripts": {
       "serve": "npx eleventy",
-      "build": "npx eleventy",
+      "build": "npx eleventy --serve",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
