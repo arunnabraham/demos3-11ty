@@ -1,0 +1,18 @@
+{
+    "name": "demos3-11ty",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+      "@11ty/eleventy": "^0.12.1"
+    },
+    "scripts": {
+      "serve": "npx eleventy",
+      "build": "npx eleventy",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
